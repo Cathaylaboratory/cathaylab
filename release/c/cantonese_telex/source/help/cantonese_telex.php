@@ -10,7 +10,7 @@
 </p>
 <p>粵語國語字係一種拉丁化嘅粵語文字，意在發展粵語表音文字，縮短粵文學習同書寫時間，增強粵語使用者之間嘅凝聚力同自我認同<p>
 <p>粵語國語字通用版本集合咗各種粵語口音嘅特點，形成咗一種能夠體現並且描述各種粵語口音嘅粵語表音文字，又減低咗同音字現象嘅影響，為唔同地區唔同口音嘅粵語使用者提供咗一種通用嘅書面文字<p> 
-  <p> Oạt Ngữ Quóc Ngữ Tị hạy yât chủng Lai-đinh phá ké Oạt Ngữ mần-tị, ý tọi phát chiển Oạt Ngữ biểu-yâm mần-tị, suc đoản Oạt Mần học-tập thùng sư-slẻ sị-can, tăng khường Oạt Ngữ sỉ-yụng-chẻ chi kan ké ngình-tụi-lịch thùng tị-ngõ nhịnh-thùng</p>
+  <p> Oạt Ngữ Quóc Ngữ Tị hệ yât chủng Lai-đinh phá ké Oạt Ngữ mần-tị, ý tọi phát chiển Oạt Ngữ biểu-yâm mần-tị, suc đoản Oạt Mần học-tập thùng sư-slẻ sị-can, tăng khường Oạt Ngữ sỉ-yụng-chẻ chi kan ké ngình-tụi-lịch thùng tị-ngõ nhịnh-thùng</p>
  <p>Oạt Ngữ Quóc Ngữ Tị Thung Yụng Bản Bổn tập hập chỏ cóc chủng Oạt Ngữ hẩu yâm ké đặc điểm, yình sình chỏ yât chủng nằng cấu thảy yiện bính xẻ miều sút cóc chủng Oạt Ngữ hẩu yâm ké Oạt Ngữ biểu yâm mần tị, yựu cảm đay chỏ thùng yâm xì ké yỉnh hưởng, ụy m̀ thùng đỵ khư m̀ thùng hẩu yâm ké Oạt Ngữ sỉ yụng chẻ thày cung chỏ yất chủng thung yụng ké sư miện mần tị
   <p> Chữ Quốc Ngữ tiếng Quảng Đông là một loại chữ viết La-tinh hóa của tiếng Quảng Đông, nhằm mục đích phát triển chữ viết biểu âm của tiếng Quảng Đông, giảm bớt thời gian học và viết tiếng Quảng Đông, nâng cao sức hướng tâm và khẳng định căn cước của những người sử dụng tiếng Quảng Đông</p>
 <p>Chữ Quốc Ngữ tiếng Quảng Đông thông dụng đã tổng hợp đặc trưng của các loại giọng của tiếng Quảng, hình thành một chữ viết biểu âm có thể thể hiện và mô tả các loại giọng của tiếng Quảng, cũng bớt ảnh hưởng của hiện tượng từ đồng âm, cho những người nói các giọng của tiếng Quảng Đông ở khắp nơi một hệ thống chữ viết thung yụng <p>
