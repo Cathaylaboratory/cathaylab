@@ -42,8 +42,22 @@
  <p>The syllable pronounced "cui/kui" "khui" "hui", ngui in Canton city and Hong Kong accent or Hoisan accent should be spelled as "cư/kư" "khư" "hư" "ngư"</p>
  <p>南寧音入面嘅[tʃɿ] [tʃʰɿ] [sɿ]嘅拼寫係"chu" "xu" "su"</p>
  <p>The [tʃɿ] [tʃʰɿ] and [sɿ] sounds in Namning accent are spelled as "chu" "xu" and "su"</p>
- <p>"iu" "im" "in" "ip" "it"組合用於取代"iêu" "iêm" "iên" "iêp" "iêt"當用嚟表示發音或者串唔係粵語詞源或者唔係漢越詞詞源嘅詞語，譬如話來自嘅英文嘅借詞「𨋢lip」「天拿水thin-nà sủi」，或者係借用漢字嚟表示詞語嘅發音但係字嘅意思同漢字本身嘅意思無關嘅字，譬如話「點解đỉm-cải」</p>
- <p>The "iu" "im" "in" "ip" "it" combiniation can be used to replace "iêu" "iêm" "iên" "iêp" "iêt" when representing sounds and spelling words without Cantonese origin and without sino-cantonese origin, for example loanword from English, such as "lip" and "thin-nà sủi", or in case of using chinese characters to represent sounds or a word but the meaning of the character is not linked with its origin meaning, such as "點解đỉm-cải"</p>
+ <p>"iu" "im" "in" "ip" "it" "ay"組合用於取代"iêu" "iêm" "iên" "iêp" "iêt" "ê"當用嚟表示發音或者串唔係粵語詞源或者唔係漢越詞詞源嘅詞語，譬如話來自嘅英文嘅借詞「𨋢lip」「天拿水thin-nà sủi」，或者係借用漢字嚟表示詞語嘅發音但係字嘅意思同漢字本身嘅意思無關嘅字，譬如話「點解đỉm-cải」「嚟lày」，或者表示發音嘅語氣詞,譬如話「哎áy」</p>
+ <p>The "iu" "im" "in" "ip" "it" "ay" combiniation can be used to replace "iêu" "iêm" "iên" "iêp" "iêt" "ê"when representing sounds and spelling words without Cantonese origin and without sino-cantonese origin, for example loanword from English, such as "lip" and "thin-nà sủi", or in case of using chinese characters to represent sounds or a word but the meaning of the character is not linked with its origin meaning, such as "點解đỉm-cải" "嚟lày", or interjections such as "哎áy"</p>
+ <p>ê同ay用嚟表示一於嘅發音，ê用嚟拼寫漢字詞源嘅字同有明確嘅詞源喺古音入面讀呢個韻腹嘅詞語，ay用嚟拼寫少部分嘅非漢字嘅詞語或者係漢字但係係由不規則音變產生呢個讀音嘅字，譬如話「嚟lày」「睇thảy」「咪may」「咪mạy」「米may」「呢nay」「揮phay」「僞ngạy」「魏ngày」「危ngày」「矮ảy」「哎áy」「曳yay」「喺hảy」「使sảy」「费pháy」「沸pháy」</p>
+ <p>"ê" and "ay" are used to represent same pronunciation. "ê" is used to spell sino-cantonese words and the words with clear etymology that pronounce this vowel in ancient time. "ay" is used to spell few non-sino-cantonese words and sino-cantonese words with irregular sound change, such as「嚟lày」「睇thảy」「咪may」「咪mạy」「米may」「呢nay」「揮phay」「僞ngạy」「魏ngày」「危ngày」「矮ảy」「哎áy」「曳yay」「喺hảy」「使sảy」「费pháy」「沸pháy」</p>
+ <p>如果一個單獨嘅yi音嘅音節聲調係第1、2、3聲調，咁唔使寫後邊嘅i，譬如話「衣y」「倚ỷ」「意ỷ」</p>
+ <p>If a "yi" sound syllable has first, second, or third tone, the "i" behind can be removed, such as 「衣y」「倚ỷ」「意ỷ」</p>
+ <p>如果一個單獨嘅yi音嘅音節聲調係第4、5、6聲調，咁要寫yi，譬如話「移yì」「以yĩ」「易yị」</p>
+ <p>If a "yi" sound syllable has forth, fifth, or sixth tone, it should be spelled as "yi", such as 「移yì」「以yĩ」「易yị」</p>
+ <p>如果一個單獨嘅vu音嘅音節聲調係第1、2、3聲調，咁唔使寫前邊嘅v，譬如話「烏u」「塢ủ」「䜑ú」</p>
+ <p>If a "vu" sound syllable has first, second, or third tone, the "v" before can be removed, such as 「烏u」「塢ủ」「䜑ú」</p>
+ <p>如果一個單獨嘅vu音嘅音節聲調係第4、5、6聲調，咁要寫vu，譬如話「湖vù」「護vụ」</p>
+ <p>If a "vu" sound syllable has forth, fifth, or sixth tone, it should be spelled as "vu", such as 「湖vù」「護vụ」</p>
+ <p>如果"y" "ê" 嘅元音前邊冇韻首單獨出現，咁要寫"ơi" "ay"，譬如話「誒ợi」「哎áy」</p>
+ <p>If "y" and "ê" vowels appear without a consonant before, it should be spelled as "ơi" "ay", such as 「誒ợi」「哎áy」</p>
+ <p>如果"â"嘅元音後邊冇韻尾單獨出現，咁要寫"ơ"，譬如話「㗎cớ」「嘞lớ」</p>
+ <p>If "â" vowels appear without a consonant behind, the vowel should be spelled as "ơ", such as 「㗎cớ」「嘞lớ」</p>
  <h1>音調 Thanh Điệu tones</h1>
  <img src='tones.png' alt='Keyboard Layout'>
 
@@ -146,8 +160,8 @@
    <tr>
      <td>6 (low falling)</td>
      <td>j</td>
-     <td>hai<strong>j</strong></td>
-     <td>hạy係
+     <td>hee<strong>j</strong></td>
+     <td>hệ係
      </td>
    </tr>
    <tr>
@@ -218,13 +232,13 @@
   <a href="https://github.com/Cathaylaboratory/quokyuzi/blob/main/quocyuchinamninhva.yaml">Dictionary for the script of National Language for Namning accent Quóc Yữ Chị粵語國語字字典南寧音</a>
   <p></p>
   <p>粵語國語字通用版本係一種收納咗多種粵語口音發音嘅粵語文字，粵語國語字通用版本嘅使用同粵語國語字嘅廣州音、台山音、南寧音、欽州音等等粵語口音嘅版本嘅使用之間唔衝突</p>
-  <p>Oạt Ngữ Quóc Ngữ Tị thung yụng bản bổn hạy yât chủng sưu-nạp chỏ đo-chủng Oạt Ngữ hẩu yâm ké Oạt-Ngữ mần-tị, Oạt Ngữ Quóc Ngữ Tị thung yụng bản bổn ké sỉ-yụng thùng Oạt Ngữ Quóc Ngữ Tị ké Quỏng Châu yâm, Thòi San yâm, Nàm Nình Yâm, Yâm Châu yâm đ.đ. Oạt Ngữ hẩu yâm ké bản-bổn ké sỉ-yụng m̀ trung-đật </p>
+  <p>Oạt Ngữ Quóc Ngữ Tị thung yụng bản bổn hệ yât chủng sưu-nạp chỏ đo-chủng Oạt Ngữ hẩu yâm ké Oạt-Ngữ mần-tị, Oạt Ngữ Quóc Ngữ Tị thung yụng bản bổn ké sỉ-yụng thùng Oạt Ngữ Quóc Ngữ Tị ké Quỏng Châu yâm, Thòi San yâm, Nàm Nình Yâm, Yâm Châu yâm đ.đ. Oạt Ngữ hẩu yâm ké bản-bổn ké sỉ-yụng m̀ trung-đật </p>
   <p>The universal version of Script of Nation Language of Cantonese is a Cantonese script gathered various of Cantonese accents and dialects, the uses of the universal version of Script of Nation Language of Cantonese is not conflict with the use of the Script of Nation Language of Cantonese for cantonese accents, such as Hong Kong and Canton city accent, Hoisan accent, Namning accent and Yamchow accent.</p>
   <p></p>
 <p>範文：南國山河</p>
 <p>Nàm Quóc San Hò</p>
 <p>南國山河南帝居</p> 
-<p>Nàm Quóc San Hò Nàm Đáy Cư</p>
+<p>Nàm Quóc San Hò Nàm Đế Cư</p>
 <p>截然定分在天書</p>
 <p>Tiệt Nhiền Định Phân Tọi Thiên Sư</p>
 <p>如何逆虜來侵犯</p> 

@@ -3,7 +3,7 @@ c This Version of Cantonese Romanization script simulate a proto-cantonese phono
 store(&VERSION) '15.0'
 store(&NAME) 'cantonese telex'
 store(&COPYRIGHT) 'Copyright © cathaylab'
-store(&KEYBOARDVERSION) '3.0.1'
+store(&KEYBOARDVERSION) '3.0.2'
 store(&TARGETS) 'any'
 store(&BITMAP) 'cantonese_telex.ico'
 store(&VISUALKEYBOARD) 'cantonese_telex.kvks'
@@ -225,6 +225,8 @@ store(two_aa) 'âÂ'
 store(two_a) 'aA'
 store(two_uw) 'ưƯ'
 store(two_q) 'qQ'
+store(ie_consonants) 'đbcdghklmnprstvxyzĐBCDGHKLMNPRSTVXYZ'
+store(viet_letters) 'ăâêôơưđĂÂÊÔƠƯĐ'
 c *******************************************************************
 
     c Keyboard options
@@ -5774,6 +5776,7 @@ any(vowels) any(ys) + any(end_consonants) > index(vowels, 1) index(ys, 2) index(
 
 any(no_space_punctuation) + [ALT K_QUOTE] > index(no_space_punctuation, 1)'’'
 any(all_letters) + [ALT K_QUOTE] > index(all_letters, 1)'’'
+any(viet_letters) + [ALT K_QUOTE] > index(viet_letters, 1)'’'
 any(vowels_sac) + [ALT K_QUOTE] > index(vowels_sac, 1)'’'
 any(vowels_hoi) + [ALT K_QUOTE] > index(vowels_hoi, 1)'’'
 any(vowels_huyen) + [ALT K_QUOTE] > index(vowels_huyen, 1)'’'
@@ -5782,6 +5785,7 @@ any(vowels_nang) + [ALT K_QUOTE] > index(vowels_nang, 1)'’'
 
 any(no_space_punctuation) + [ALT SHIFT K_QUOTE] > index(no_space_punctuation, 1)'”'
 any(all_letters) + [ALT SHIFT K_QUOTE] > index(all_letters, 1)'”'
+any(viet_letters) + [ALT SHIFT K_QUOTE] > index(viet_letters, 1)'”'
 any(vowels_sac) + [ALT SHIFT K_QUOTE] > index(vowels_sac, 1)'”'
 any(vowels_hoi) + [ALT SHIFT K_QUOTE] > index(vowels_hoi, 1)'”'
 any(vowels_huyen) + [ALT SHIFT K_QUOTE] > index(vowels_huyen, 1)'”'
@@ -5829,7 +5833,7 @@ any(vowels_nga) + [ALT SHIFT K_QUOTE] > index(vowels_nga, 1)'”'
 "N̉" + [ALT SHIFT K_QUOTE] > "N̉”"
 "Ṇ" + [ALT SHIFT K_QUOTE] > "Ṇ”"
 
-'i' + 'i' > 'iê'
+any(ie_consonants)'i' + 'i' > index(ie_consonants, 1)'iê'
 'iê' + 'i' > 'ii'
 
 
