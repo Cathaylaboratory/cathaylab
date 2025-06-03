@@ -50,6 +50,10 @@
  <p>If a "yi" sound syllable has first, second, or third tone, the "i" behind can be removed, such as 「衣y」「倚ỷ」「意ỷ」</p>
  <p>如果一個單獨嘅yi音嘅音節聲調係第4、5、6聲調，咁要寫yi，譬如話「移yì」「以yĩ」「易yị」</p>
  <p>If a "yi" sound syllable has forth, fifth, or sixth tone, it should be spelled as "yi", such as 「移yì」「以yĩ」「易yị」</p>
+   <p>如果一個單獨嘅yư音嘅音節聲調係第1、2、3聲調，咁唔使寫前邊嘅y，譬如話「於ư」「傴ử」「淤ứ」</p>
+ <p>If a "yư" sound syllable has first, second, or third tone, the "i" behind can be removed, such as 「於ư」「傴ử」「淤ứ」</p>
+ <p>如果一個單獨嘅yư音嘅音節聲調係第4、5、6聲調，咁要寫yư，譬如話「輿yừ」「與yữ」「預yự」</p>
+ <p>If a "yư" sound syllable has forth, fifth, or sixth tone, it should be spelled as "yi", such as 「輿yừ」「與yữ」「預yự」</p>
  <p>如果一個單獨嘅vu音嘅音節聲調係第1、2、3聲調，咁唔使寫前邊嘅v，譬如話「烏u」「塢ủ」「䜑ú」</p>
  <p>If a "vu" sound syllable has first, second, or third tone, the "v" before can be removed, such as 「烏u」「塢ủ」「䜑ú」</p>
  <p>如果一個單獨嘅vu音嘅音節聲調係第4、5、6聲調，咁要寫vu，譬如話「湖vù」「護vụ」</p>
