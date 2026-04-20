@@ -29,7 +29,7 @@
 <div id='osk-container'>
     <h2>Desktop Keyboard Layout</h2>
 
-    <div id='osk' data-states='default shift alt shift-alt'></div>
+    <div id='osk' data-states='default shift rightalt rightalt-shift'></div>
 
 </div>
 
