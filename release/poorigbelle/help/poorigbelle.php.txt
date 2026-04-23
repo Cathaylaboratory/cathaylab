@@ -1,0 +1,21 @@
+<?php 
+  $pagename = 'poorigbelle Keyboard Help';
+  $pagetitle = $pagename;
+  require_once('header.php');
+?>
+
+<p>
+    Are you tired of struggling to find the right characters for your native language? 
+    <strong>poorigbellé</strong> is a custom-designed keyboard created specifically to support 
+    the unique phonetic needs of African Darfurian native languages. 
+</p>
+
+<p>
+    We speak from Darfur (98%) and West Sudan. Whether you are texting friends, writing emails, 
+    or posting on social media, <strong>poorigbellé</strong> ensures your words are written 
+    exactly as they are spoken.
+</p>
+
+<p>
+    Users may view the On-Screen keyboard to view the keyboard layout.
+</p>
