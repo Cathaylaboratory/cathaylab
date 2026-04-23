@@ -1,12 +1,11 @@
-﻿ c Pooringbellé - Full Finished Build 
-c by "pojor"
+﻿c Pooringbellé - Full Finished Build
 store(&NAME) 'pooringbellé'
 store(&COPYRIGHT) '© Pojor'
-store(&TARGETS) 'iphone androidphone androidtablet mobile tablet'
+store(&TARGETS) 'windows iphone androidphone androidtablet mobile tablet'
 store(&KEYBOARDVERSION) '1.0'
 store(&LAYOUTFILE) 'pooringbell.keyman-touch-layout'
-store(&MESSAGE) 'this is my message to everyone who speak poorigbellé or fur language congratulation '
-store(&BITMAP) 'poorigbelle.ico'
+store(&KMW_EMBEDCSS) 'poorigbelle.css'
+store(&MESSAGE) 'this my message to everyone who speak poorigbelle"congratulation '
 
 begin Unicode > use(main)
 
@@ -94,7 +93,7 @@ c --- SHIFT LAYER (BASIC CAPITALS) ---
 + [T_Z_U] > 'Z'
 + [T_ʉ_U] > 'Ʉ'
 + [T_ɳ_U] > 'ɳ'
-+ [T_NY_U] > 'ny'
++ [T_NY_U] > 'NY'
 + [T_B_U] > 'B'
 + [T_N_U] > 'N'
 + [T_M_U] > 'M'

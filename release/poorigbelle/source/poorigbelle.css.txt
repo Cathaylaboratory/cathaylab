@@ -1,0 +1,42 @@
+/* Main Keyboard Background */
+.kmw-keyboard-phone {
+    background-color: #1a1a2e !important;
+}
+
+/* Default Letter Keys (Dark Gray) */
+.kmw-key-default {
+    background-color: #2d2d3a !important;
+    color: #ffffff !important;
+    border-radius: 6px !important;
+}
+
+/* THE PURPLE KEYS (Vowels with Long-press) */
+/* You can assign this class specifically to your vowels in the JSON */
+.purple-key {
+    background-color: #5d2ab7 !important;
+    color: #ffffff !important;
+}
+
+/* Long-press Popup Window (Purple to match) */
+.kmw-key-popup {
+    background-color: #5d2ab7 !important;
+    border: 1px solid #ffffff !important;
+}
+
+/* Numeric and Backspace Keys (Darker Blue/Grey) */
+.kmw-key-special {
+    background-color: #253347 !important;
+    color: #ffffff !important;
+}
+
+/* THE BLUE ENTER KEY */
+#K_ENTER {
+    background-color: #1a73e8 !important;
+    color: #ffffff !important;
+}
+
+/* Space bar styling */
+#K_SPACE {
+    background-color: #2d2d3a !important;
+    color: #8a8a8a !important;
+}

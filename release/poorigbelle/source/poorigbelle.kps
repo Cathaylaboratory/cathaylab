@@ -7,7 +7,6 @@
   <Options>
     <ExecuteProgram></ExecuteProgram>
     <ReadMeFile>readme.htm</ReadMeFile>
-    <GraphicFile>..\build\poorigbelle.js</GraphicFile>
     <LicenseFile>..\LICENSE.md</LicenseFile>
     <WelcomeFile>welcome.htm</WelcomeFile>
     <MSIFileName></MSIFileName>
@@ -15,33 +14,22 @@
     <FollowKeyboardVersion/>
   </Options>
   <StartMenu>
-    <Folder>poorigbelle</Folder>
-    <Items>
-      <Item>
-        <Name>poorigbelle keyboard manual</Name>
-        <FileName></FileName>
-        <Arguments></Arguments>
-        <Icon></Icon>
-        <Location>psmelStartMenu</Location>
-      </Item>
-    </Items>
+    <Folder></Folder>
+    <Items/>
   </StartMenu>
   <Info>
     <Name URL="">poorigbelle</Name>
-    <Copyright URL="">pojorigkoro@yahoo.fr</Copyright>
+    <Copyright URL="">Copyright © pojor</Copyright>
     <Author URL="mailto:pojorigkoro@yahoo.fr">pojor</Author>
-    <Description URL="">this is a fur/poorigbellé language we use to speek from darfur
-i'm developing this language to use it in any phone and pc</Description>
+    <Description URL="">Are you tired of struggling to find the right characters for your native language?
+poorigbellé is a custom-designed Android keyboard created specifically to support the unique phonetic needs of African Darfurain native languages.
+We speak form Darfur 98%,west Sudan 
+Whether you are texting friends, writing emails, or posting on social media, 
+poorigbellé ensures your words are written exactly as they are spoken.
+this</Description>
     <Version URL=""></Version>
-    <WebSite URL="https://keyman.com/keyboard/poorigbelle">https://keyman.com/keyboard/poorigbelle</WebSite>
   </Info>
   <Files>
-    <File>
-      <Name>..\build\poorigbelle.js</Name>
-      <Description></Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.js</FileType>
-    </File>
     <File>
       <Name>welcome.htm</Name>
       <Description></Description>
@@ -61,39 +49,18 @@ i'm developing this language to use it in any phone and pc</Description>
       <FileType>.md</FileType>
     </File>
     <File>
-      <Name>NotoSans-Regular.ttf</Name>
-      <Description>Font Noto Sans Regular</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.ttf</FileType>
-    </File>
-    <File>
-      <Name>poorigbelle.kps</Name>
-      <Description>File poorigbelle.kps</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.kps</FileType>
-    </File>
-    <File>
-      <Name>poorigbelle.kvks</Name>
-      <Description>File poorigbelle.kvks</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.kvks</FileType>
-    </File>
-    <File>
       <Name>poorigbelle.kmn</Name>
       <Description>File poorigbelle.kmn</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kmn</FileType>
     </File>
+    <File>
+      <Name>help\poorigbelle.php.txt</Name>
+      <Description>File poorigbelle.php.txt</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.txt</FileType>
+    </File>
   </Files>
-  <Keyboards>
-    <Keyboard>
-      <ID>poorigbelle</ID>
-      <OSKFont>NotoSans-Regular.ttf</OSKFont>
-      <DisplayFont>NotoSans-Regular.ttf</DisplayFont>
-      <Languages>
-        <Language ID="qaa">qaa</Language>
-      </Languages>
-    </Keyboard>
-  </Keyboards>
+  <Keyboards/>
   <Strings/>
 </Package>
