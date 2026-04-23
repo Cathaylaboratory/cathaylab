@@ -234,7 +234,7 @@ store(two_uw) 'Ưư'
 store(ie_consonants) 'đbcdgğhklmnprsštțvxyzžĐBCDGĞHKLMNPRSŠTȚVXYZŽ'
 store(viet_letters) 'ăâêôơưđĂÂÊÔƠƯĐḿṃḾṂńǹñṇŃǸÑṆŧŦțȚšŠžŽğĞ'
 store(yu) 'yuYU'
-store(yuia) 'yuiaYUIA'
+store(yuia) 'uiaUIA'
 store(pk) 'pkPK'
 store(z) 'zZ'
 store(two_o) 'oO'
@@ -467,16 +467,16 @@ any(aa) 'NG' + any(two_a) > index(a, 1) 'NG'
 'A' any(ioy) + any(r) > 'Ả' index(ioy, 2)
 'A' any(ioy) + any(x) > 'Ã' index(ioy, 2)
 'A' any(ioy) + any(j) > 'Ạ' index(ioy, 2)
-'o' any(aie) + any(s) > 'ó' index(aie, 2)
-'o' any(aie) + any(f) > 'ò' index(aie, 2)
-'o' any(aie) + any(r) > 'ỏ' index(aie, 2)
-'o' any(aie) + any(x) > 'õ' index(aie, 2)
-'o' any(aie) + any(j) > 'ọ' index(aie, 2)
-'O' any(aie) + any(s) > 'Ó' index(aie, 2)
-'O' any(aie) + any(f) > 'Ò' index(aie, 2)
-'O' any(aie) + any(r) > 'Ỏ' index(aie, 2)
-'O' any(aie) + any(x) > 'Õ' index(aie, 2)
-'O' any(aie) + any(j) > 'Ọ' index(aie, 2)
+'o' any(two_i) + any(s) > 'ó' index(two_i, 2)
+'o' any(two_i) + any(f) > 'ò' index(two_i, 2)
+'o' any(two_i) + any(r) > 'ỏ' index(two_i, 2)
+'o' any(two_i) + any(x) > 'õ' index(two_i, 2)
+'o' any(two_i) + any(j) > 'ọ' index(two_i, 2)
+'O' any(two_i) + any(s) > 'Ó' index(two_i, 2)
+'O' any(two_i) + any(f) > 'Ò' index(two_i, 2)
+'O' any(two_i) + any(r) > 'Ỏ' index(two_i, 2)
+'O' any(two_i) + any(x) > 'Õ' index(two_i, 2)
+'O' any(two_i) + any(j) > 'Ọ' index(two_i, 2)
 'â' any(yu) + any(s) > 'ấ' index(yu, 2)
 'â' any(yu) + any(f) > 'ầ' index(yu, 2)
 'â' any(yu) + any(r) > 'ẩ' index(yu, 2)
