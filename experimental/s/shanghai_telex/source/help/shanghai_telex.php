@@ -8,8 +8,8 @@
 <p>
   Shanghai Telex keyboard for Script of the National Language for Wu Ğồ-Nhủ Koâc-Nhủ-Zụ̆
 </p>
-<p> Ğồ-Nhủ Koâc-Nhủ-Zụ̆ zụ̆ yêt chủng Lơ-Mỏ-hó căh Ğồ-Nhủ Vằn-Zụ̆, mọc-tich zụ̆ păh Ğồ-Nhủ yêt chủng piao-chuẩn căh šư-sỉa ğiệ-thổng</p>
-<p> Ğồ-Nhủ Koâc-Nhủ-Zụ̆ căh thông-dụng pản-pởn kiêt-ğợp lặh coc-chủng Ğồ-Nhủ fang-niền căh đặc-tiển, ğình-žềnh yêt chủng hảo piảo-žụ̆ tăh miào-žuật coc-šưc-coc-diạng Ğồ-Nhủ fang-niền căh šư-sỉa ğiệ-thổng, ğã kản-šiảo đồng-in-zụ̆, điề-cung păh făh-đông đị-fang făh-đồng khẩu-in căh cảng Ğồ-Nhủ căh nình yêt tháo ğộng-đồng căh šư-sỉa ğiệ-thổng.</p>
+<p> Ğồ-Nhủ Koâc-Nhủ-Zụ̆ zụ̆ yêt chủng Lơ-Mỏ-hó căh Ğồ-Nhủ Vằn-Zụ̆, mọc-tich zụ̆ păh Ğồ-Nhủ yêt chủng piao-chuẩn căh šư-siả ğiệ-thổng</p>
+<p> Ğồ-Nhủ Koâc-Nhủ-Zụ̆ căh thông-dụng pản-pởn kiêt-ğợp lặh coc-chủng Ğồ-Nhủ fang-niền căh đặc-tiển, ğình-žềnh yêt chủng hảo piảo-žụ̆ tăh miào-žuật coc-šưc-coc-diạng Ğồ-Nhủ fang-niền căh šư-sỉa ğiệ-thổng, ğã kản-šiảo đồng-in-zụ̆, điề-cung păh făh-đông đị-fang făh-đồng khẩu-in căh cảng Ğồ-Nhủ căh nình yêt tháo ğộng-đồng căh šư-siả ğiệ-thổng.</p>
   <p> The script of national language for Wu is a romanized Wu script is aimed at developing a standard phonetic writing system for Wu.</p>
   <p> The universal version of the script of national language for Wu combines the character of various accents of Wu, forms a phonetic writing system for Wu which demonstrates and describes various of Wu accents, and reduces the impact of homophone, provides a common written system for Wu speakers in different areas with different accents.</p>
 
@@ -467,12 +467,12 @@
 <tr><td>e</td><td>[ɛ]</td><td></td><td style="background-color: plum;">ie</td><td>[iɛ]</td><td></td><td style="background-color: plum;">oe</td><td>[uɛ]</td><td></td><td style="background-color: plum;">ue</td><td>[yɛ]</td><td></td></tr>
 <tr><td>ê</td><td>[e]</td><td>許</td><td style="background-color: pink;">iê</td><td>[ie]</td><td>世</td><td style="background-color: yellow;">oê</td><td>[ue]</td><td>爲</td><td style="background-color: orange;">uê</td><td>[ye]</td><td>稅</td></tr>
 <tr><td>o</td><td>[o]</td><td>話</td><td style="background-color: yellow;">io</td><td>[io]</td><td>霞</td><td style="background-color: plum;">oơ</td><td>[uo]</td><td></td><td style="background-color: lightcoral;">uyo</td><td>[yʮ]</td><td>靴</td></tr>
-<tr><td style="background-color: skyblue;">ơ</td><td>[ou]</td><td>和</td><td style="background-color: plum;">iơ</td><td>[ioɯ]</td><td></td><td style="background-color: pink;">oơi</td><td>[uɐi]</td><td>推</td><td style="background-color: plum;">uo</td><td>[yo]</td><td></td></tr>
-<tr><td>ŭ</td><td>[ɿ]</td><td>事</td><td style="background-color: plum;">eo</td><td>[ɛu]</td><td></td><td style="background-color: orange;">ơi</td><td>[uei]</td><td>最</td><td style="background-color: lightcoral;">ư</td><td>[ʮ]</td><td>主</td></tr>
-<tr><td style="background-color: yellow;">ao</td><td>[ɑo]</td><td>奧</td><td style="background-color: yellow;">iao</td><td>[iɑo]</td><td>要</td><td style="background-color: yellow;">ôi</td><td>[ui]</td><td>會</td><td style="background-color: lightcoral;">ươu</td><td>[øʏ]</td><td>樓</td></tr>
+<tr><td style="background-color: skyblue;">ơ</td><td>[ou]</td><td>和</td><td style="background-color: plum;">iơ</td><td>[ioɯ]</td><td></td><td style="background-color: pink;">ơi</td><td>[uɐi]</td><td>推</td><td style="background-color: plum;">uo</td><td>[yo]</td><td></td></tr>
+<tr><td>ŭ</td><td>[ɿ]</td><td>事</td><td style="background-color: plum;">eo</td><td>[ɛu]</td><td></td><td style="background-color: orange;">ôi</td><td>[uei]</td><td>最</td><td style="background-color: lightcoral;">ư</td><td>[ʮ]</td><td>主</td></tr>
+<tr><td style="background-color: yellow;">ao</td><td>[ɑo]</td><td>奧</td><td style="background-color: yellow;">iao</td><td>[iɑo]</td><td>要</td><td style="background-color: plum;">ôy</td><td>[ui]</td><td></td><td style="background-color: lightcoral;">ươu</td><td>[øʏ]</td><td>樓</td></tr>
 <tr><td style="background-color: yellow;">ai</td><td>[æi]</td><td>愛</td><td style="background-color: pink;">iai</td><td>[iæ]</td><td>解</td><td style="background-color: pink;">oai</td><td>[uæ]</td><td>乖</td><td></td><td></td><td></td></tr>
-<tr><td style="background-color: plum;">ay</td><td>[ai]</td><td></td><td style="background-color: pink;">iay</td><td>[iai]</td><td>解</td><td style="background-color: pink;">oay</td><td>[uai]</td><td>乖</td><td></td><td></td><td></td></tr>
-<tr><td style="background-color: lightcoral;">ây</td><td>[ei]</td><td>魚</td><td style="background-color: plum;">iô</td><td>[iu]</td><td></td><td style="background-color: plum;">oây</td><td>[uei]</td><td>爲</td><td style="background-color: plum;">uây</td><td>[yei]</td><td>稅</td></tr>
+<tr><td style="background-color: plum;">ay</td><td>[ai]</td><td></td><td style="background-color: pink;">iay</td><td>[iai]</td><td></td><td style="background-color: pink;">oay</td><td>[uai]</td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="background-color: lightcoral;">ây</td><td>[ei]</td><td>魚</td><td style="background-color: plum;">iô</td><td>[iu]</td><td></td><td style="background-color: plum;">oây</td><td>[uei]</td><td></td><td style="background-color: plum;">uây</td><td>[yei]</td><td>稅</td></tr>
 <tr><td style="background-color: plum;">âư</td><td>[əɯ]</td><td></td><td style="background-color: plum;">iâư</td><td>[iəɯ]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td style="background-color: plum;">ei</td><td>[ɛi]</td><td></td><td style="background-color: plum;">iêu</td><td>[ieɯ]</td><td></td><td style="background-color: plum;">oei</td><td>[uɛi]</td><td></td><td></td><td></td><td></td></tr>
 <tr><td style="background-color: plum;">ươ</td><td>[ø]</td><td>囡</td><td style="background-color: plum;">iươ</td><td>[iø]</td><td></td><td style="background-color: plum;">oươ</td><td>[uø]</td><td></td><td style="background-color: plum;">uươ</td><td>[yø]</td><td></td></tr>
@@ -748,5 +748,7 @@
 <p>Žừ Ğờ Nịch Lỗ Lài Țhin Vạn</p>
 <p>汝等行看取敗虛</p> 
 <p>Žử Tẳng Ğình Khến Țhủ Bạ Hu</p>
+
+<p>© cathaylab</p>
 
 <p>© cathaylab</p>
