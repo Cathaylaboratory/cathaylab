@@ -17,7 +17,26 @@ store(&COPYRIGHT) 'Copyright © MengHeng Hav'
 store(&KEYBOARDVERSION) '1.0'
 
 begin Unicode > use(main)
+begin PostKeystroke > use(PostKeystroke)
+
+group(PostKeystroke) readonly
+    c We get here after every keystroke and model action is processed
+
+    c Do swap off the shift layer automatically
+    if(&newLayer = "") if(&layer = 'shift') > context layer('default')
+
+    c Okay, let's stay on the numeric layer if we are there already
+    platform('touch') if(&newLayer = "") if(&layer = 'numeric') > context
+
+    platform('touch') if(&newLayer = "") if(&layer = 'symbols') > context
+
+    c no other changes, so detect sentence or layer change, as long
+    c as the user hasn't attempted to change layer themselves.
+    c platform('touch') if(&newLayer = "") > use(detectStartOfSentence)
+
+
 group(main) using keys
+
 
 c ========================================
 c DEFAULT LAYER

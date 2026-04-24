@@ -18,12 +18,6 @@
     by providing direct access within Keyman.
 </p>
 
-<p>
-    Furthermore, the keyboard incorperates the Khmer MEF font distributed by the Ministry of Economy and Finance of Cambodia.
-    The integration of this official typeface contributes to orthographic consistency and reinforces the
-    typographic identity of the Khmer Traditional Keyman keyboard.
-</p>
-
 <div class="overview">
 
 <div id='osk-container'>
