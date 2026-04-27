@@ -12,7 +12,7 @@
 </p>
 
 <p>
-    A distinctive feature of this keyboard is the inclusion of the character ឲ, which is mapped to the <kbd>Right</kbd> + <kbd>Alt</kbd> + <kbd>y</kbd>
+    A distinctive feature of this keyboard is the inclusion of the character ឲ, which is mapped to the <kbd>Right Alt</kbd> + <kbd>y</kbd>
     key combination. This character is not currently represented in the standard Microsoft Khmer layout,
     although its inclusion is under consideration as of April 2026. The present implementation addresses this gap 
     by providing direct access within Keyman.
