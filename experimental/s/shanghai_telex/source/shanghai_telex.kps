@@ -74,7 +74,7 @@
     <Keyboard>
       <ID>shanghai_telex</ID>
       <Languages>
-        <Language ID="wuu-Latn-142">Ğồ-Nhủ</Language>
+        <Language ID="wuu-Latn">Ğồ-Nhủ</Language>
       </Languages>
     </Keyboard>
   </Keyboards>
