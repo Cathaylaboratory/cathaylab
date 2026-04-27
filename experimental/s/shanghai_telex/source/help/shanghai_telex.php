@@ -1,5 +1,5 @@
 <?php 
-  $pagename = 'cantonese telex Keyboard Help';
+  $pagename = 'shanghai telex Keyboard Help';
   $pagetitle = $pagename;
   // Header we will tidy up later  
   require_once('header.php');
