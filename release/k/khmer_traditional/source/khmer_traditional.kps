@@ -8,6 +8,7 @@
     <ExecuteProgram></ExecuteProgram>
     <ReadMeFile>readme.htm</ReadMeFile>
     <LicenseFile>..\LICENSE.md</LicenseFile>
+    <WelcomeFile>welcome\welcome.htm</WelcomeFile>
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
@@ -61,56 +62,14 @@
       <FileType>.ttf</FileType>
     </File>
     <File>
-      <Name>..\..\..\shared\fonts\khmer\khmerbusra\Busra-B.ttf</Name>
-      <Description>Font Khmer Busra Bold</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.ttf</FileType>
-    </File>
-    <File>
-      <Name>..\..\..\shared\fonts\khmer\khmerbusra\Busra-BI.ttf</Name>
-      <Description>Font Khmer Busra Bold Italic</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.ttf</FileType>
-    </File>
-    <File>
-      <Name>..\..\..\shared\fonts\khmer\khmerbusra\Busra-I.ttf</Name>
-      <Description>Font Khmer Busra Italic</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.ttf</FileType>
-    </File>
-    <File>
-      <Name>..\..\..\shared\fonts\khmer\khmerbusra\Busra-R.ttf</Name>
-      <Description>Font Khmer Busra</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.ttf</FileType>
-    </File>
-    <File>
-      <Name>..\..\..\shared\fonts\khmer\khmerbusra\OFL.txt</Name>
-      <Description>File OFL.txt</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.txt</FileType>
-    </File>
-    <File>
       <Name>welcome\DesktopU_.png</Name>
       <Description>File DesktopU_.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
     <File>
-      <Name>welcome\DesktopU_A.png</Name>
-      <Description>File DesktopU_A.png</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.png</FileType>
-    </File>
-    <File>
       <Name>welcome\DesktopU_S.png</Name>
       <Description>File DesktopU_S.png</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.png</FileType>
-    </File>
-    <File>
-      <Name>welcome\DesktopU_SA.png</Name>
-      <Description>File DesktopU_SA.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
@@ -150,11 +109,65 @@
       <CopyLocation>0</CopyLocation>
       <FileType>.ico</FileType>
     </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\busra\Busra-Bold.ttf</Name>
+      <Description>Font Busra Bold</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\busra\Busra-ExtraLight.ttf</Name>
+      <Description>Font Busra ExtraLight</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\busra\Busra-Light.ttf</Name>
+      <Description>Font Busra Light</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\busra\Busra-Medium.ttf</Name>
+      <Description>Font Busra Medium</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\busra\Busra-Regular.ttf</Name>
+      <Description>Font Busra</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\busra\Busra-SemiBold.ttf</Name>
+      <Description>Font Busra SemiBold</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\busra\OFL.txt</Name>
+      <Description>File OFL.txt</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.txt</FileType>
+    </File>
+    <File>
+      <Name>welcome\DesktopU_RA.png</Name>
+      <Description>File DesktopU_RA.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>welcome\DesktopU_SRA.png</Name>
+      <Description>File DesktopU_SRA.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
       <ID>khmer_traditional</ID>
-      <OSKFont>..\..\..\shared\fonts\khmer\khmerbusra\Busra-R.ttf</OSKFont>
+      <OSKFont>..\..\..\shared\fonts\sil\busra\Busra-Regular.ttf</OSKFont>
       <DisplayFont>..\..\..\shared\fonts\kbd\kbdkhmr\KbdKhmr.ttf</DisplayFont>
       <Languages>
         <Language ID="km">Khmer</Language>
