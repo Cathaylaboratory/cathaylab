@@ -22,8 +22,11 @@
     <Copyright URL="">Copyright © pojor</Copyright>
     <Author URL="mailto:pojorigkoro@yahoo.fr">pojor</Author>
     <Description URL="">Are you tired of struggling to find the right characters for your native language?
+
 poorigbellé is a custom-designed Android keyboard created specifically to support the unique phonetic needs of African Darfurain native languages.
+
 We speak form Darfur 98%,west Sudan 
+
 Whether you are texting friends, writing emails, or posting on social media, 
 poorigbellé ensures your words are written exactly as they are spoken.</Description>
     <Version URL=""></Version>
@@ -109,6 +112,10 @@ poorigbellé ensures your words are written exactly as they are spoken.</Descrip
       <DisplayFont>..\..\..\..\release\shared\fonts\noto\Latn\NotoSans-Regular.ttf</DisplayFont>
       <Languages>
         <Language ID="fvr">Fur</Language>
+        <Language ID="mls">Masalit</Language>
+        <Language ID="tma">Tama (Chad)</Language>
+        <Language ID="sjg">Assangori</Language>
+        <Language ID="zag">Zaghawa</Language>
       </Languages>
     </Keyboard>
   </Keyboards>
