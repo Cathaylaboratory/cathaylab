@@ -20,3 +20,6 @@ Supported Platforms
  * Android phone
  * Android tablet
  * Mobile devices
+ * Windows
+ * macOS
+ * Linux
