@@ -13,6 +13,7 @@ store(&TARGETS) 'any'
 store(&VISUALKEYBOARD) 'khmer_traditional.kvks'
 store(&BITMAP) 'khmer_traditional.ico'
 store(&LAYOUTFILE) 'khmer_traditional.keyman-touch-layout'
+store(&DISPLAYMAP) '../../../shared/fonts/kbd/kbdkhmr/KbdKhmr.json'
 store(&COPYRIGHT) 'Copyright © MengHeng Hav'
 store(&KEYBOARDVERSION) '1.0'
 
