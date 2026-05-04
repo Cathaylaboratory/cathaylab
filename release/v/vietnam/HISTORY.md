@@ -1,7 +1,7 @@
 vietnam Change History
 ====================
 
-2.0.4 (2025-04-25)
+2.0.5 (2025-04-25)
 ----------------
 * Updated by cathaylab
 * removed uncommon "inn" and "ann" rules
